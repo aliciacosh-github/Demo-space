@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+    <string name="acp_test_7">Os idiomas europeus são membros da mesma família. Sua existência separada é um mito. Para ciência, música, esporte, etc., a Europa usa o mesmo vocabulário. Os idiomas diferem apenas em sua gramática, sua pronúncia e suas palavras mais comuns.</string>
+    <string name="apc_test_1">Testar a criação automatizada de projetos... status: {state}</string>
+    <string name="apc_test_2">Testando novamente a criação automatizada de projetos...</string>
+    <string name="apc_test_3">Olá mundo!</string>
+    <string name="apc_test_4">MyBrand</string>
+    <string name="apc_test_5">Hoje é um grande dia para a tradução automática!</string>
+    <string name="apc_test_6">Este é mais um texto. Por favor, traduza-o.</string>
+    <string name="apc_test_8">Hoje é um dia maravilhoso!</string>
+    <string name="gitlab_key">Isso é do Gitlab!</string>
+    <string name="icu_plural">{nrOfChairs, plural, zero{Não há cadeiras.} um{Há uma cadeira.} outros{Há # cadeiras.}}</string>
+    <string name="my_key">Esta é uma tradução.</string>
+    <string name="my_key_2">Esta é outra tradução.</string>
+    <string name="my_key_3">Essa é mais uma tradução.</string>
+</resources>

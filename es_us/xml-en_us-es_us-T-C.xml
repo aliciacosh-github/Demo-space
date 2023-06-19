@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <resources>
-    <string name="acp_test_7">Las lenguas europeas pertenecen a la misma familia. Su existencia por separado es un mito. Para la ciencia, la música, el deporte, etc., Europa utiliza el mismo vocabulario. Las lenguas sólo difieren en su gramática, su pronunciación y sus palabras más comunes.</string>
+    <string name="acp_test_7">Las lenguas europeas son miembros de la misma familia. Su existencia separada es un mito. Para ciencia, música, deporte, etc., Europa utiliza el mismo vocabulario. Los idiomas solo se diferencian en su gramática, su pronunciación y sus palabras más comunes.</string>
     <string name="apc_test_1">Probando la creación automatizada de proyectos... estado: {estado}</string>
     <string name="apc_test_2">Probando de nuevo la creación automatizada de proyectos...</string>
-    <string name="apc_test_3">Hola a todos.</string>
+    <string name="apc_test_3">¡Hola Mundo!</string>
     <string name="apc_test_4">MyBrand</string>
-    <string name="apc_test_5">Hoy es un gran día para la traducción automática.</string>
-    <string name="apc_test_6">Esto es más texto. Por favor, tradúzcalo.</string>
+    <string name="apc_test_5">¡Hoy es un gran día para la traducción automática!</string>
+    <string name="apc_test_6">Este es un texto más. Por favor tradúzcalo.</string>
     <string name="apc_test_8">¡Hoy es un gran día!</string>
     <string name="gitlab_key">¡Esto es de Gitlab!</string>
-    <string name="icu_plural">{nrOfChairs, plural, cero{No hay sillas.} uno{Hay una silla.} otro{Hay # sillas.}}</string>
-    <string name="my_key">Esto es una traducción.</string>
+    <string name="icu_plural">{nrOfChairs, plural, zero{No hay sillas.} one{Hay una silla.} other{Hay # sillas.}}</string>
+    <string name="my_key">Esta es una traducción.</string>
     <string name="my_key_2">Esta es otra traducción.</string>
-    <string name="my_key_3">Esta es otra traducción.</string>
+    <string name="my_key_3">Esta es otra traducción más.</string>
 </resources>

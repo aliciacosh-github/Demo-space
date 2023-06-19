@@ -1,15 +1,15 @@
 {
-  "acp_test_7": "Las lenguas europeas pertenecen a la misma familia. Su existencia por separado es un mito. Para la ciencia, la música, el deporte, etc., Europa utiliza el mismo vocabulario. Las lenguas sólo difieren en su gramática, su pronunciación y sus palabras más comunes.",
-  "apc_test_1": "Probando la creación automatizada de proyectos... estado: {estado}",
+  "acp_test_7": "Las lenguas europeas pertenecen a la misma familia. Su existencia separada es un mito. Para la ciencia, la música, el deporte, etc., Europa utiliza el mismo vocabulario. Los idiomas solo difieren en su gramática, su pronunciación y sus palabras más comunes.",
+  "apc_test_1": "Probando la creación automatizada de proyectos... status: {state}",
   "apc_test_2": "Probando de nuevo la creación automatizada de proyectos...",
-  "apc_test_3": "Hola a todos.",
+  "apc_test_3": "¡Hola Mundo!",
   "apc_test_4": "MyBrand",
-  "apc_test_5": "Hoy es un gran día para la traducción automática.",
-  "apc_test_6": "Esto es más texto. Por favor, tradúzcalo.",
+  "apc_test_5": "¡Hoy es un gran día para la traducción automática!",
+  "apc_test_6": "Este es un poco más de texto. Por favor, tradúzcalo.",
   "apc_test_8": "¡Hoy es un gran día!",
   "gitlab_key": "¡Esto es de Gitlab!",
-  "icu_plural": "{nrOfChairs, plural, cero{No hay sillas.} uno{Hay una silla.} otro{Hay # sillas.}}",
-  "my_key": "Esto es una traducción.",
+  "icu_plural": "{nrDeSillas, plural, cero{No hay sillas.} uno{Hay una silla.} otro{Hay # sillas.}}",
+  "my_key": "Esta es una traducción.",
   "my_key_2": "Esta es otra traducción.",
   "my_key_3": "Esta es otra traducción."
 }
